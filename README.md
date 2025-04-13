@@ -45,3 +45,13 @@ poetry install
 - **Links** [Models on huggingface hub](https://huggingface.co/collections/Azrail/hw-aligment-67f985553e70a2192be195ce)
 - **Technologies**: [Transformers](https://huggingface.co/docs/transformers/index) [TRL](https://huggingface.co/docs/trl/index), PyTorch
 - **Key Features**: DPO from scratch, PPO with TRL
+
+### 📁 [GPT like transformer with Mixture of Experts](./gpt-moe/gpt_moe.ipynb)
+- **Description**: Implementation GPT-like model with Mixture-of-Experts and Grouped Query Attention.
+- **Technologies**: PyTorch
+- **Key Features**: GPT transformer, Mixture of Experts (simple variant), Grouped Query Attention
+
+### 📁 [Word2Vec](./word2vec/word2vec.ipynb)
+- **Description**: Implementation Word2Vec embedding algorithm with subsampling and negative sampling.
+- **Technologies**: PyTorch
+- **Key Features**: Word2Vec
